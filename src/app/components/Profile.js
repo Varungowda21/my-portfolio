@@ -6,7 +6,7 @@ const Profile = () => (
       <img src="/assests/varu_osm.png" alt="Varun profile pic" />
     </div>
     <div className="section_text">
-      <p className="section_text_p1">Hello, I'm</p>
+      <p className="section_text_p1">Hello, I am</p>
       <h2 className="title">Varun Gowda.K</h2>
       <p className="section_text_p2">MERN stack Developer</p>
       <div className="btn-container">
